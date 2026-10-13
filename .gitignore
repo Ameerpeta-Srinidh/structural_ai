@@ -1,0 +1,6 @@
+input_dxf/
+output/
+__pycache__/
+*.py[cod]
+.env*
+!.env.example
